@@ -159,7 +159,7 @@ Configuration5_Item6=Description=120|Designator=120|Quantity=120|Value=100|Manuf
 OutputType6=Board Stack Report
 OutputName6=Report Board Stack
 OutputCategory6=Fabrication
-OutputDocumentPath6=pcb.PcbDoc
+OutputDocumentPath6=network-module-base.PcbDoc
 OutputVariantName6=
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -172,7 +172,7 @@ Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=LayerStackReportView|Units=Metric|DocumentPath=C:\Users\bjorn\Documents\omnimod\network-module\pcb\pcb.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\bjorn\Documents\omnimod\network-module\output\pcb-drawing.PDF
+OutputFilePath2=C:\Users\bjorn\Documents\omnimod\network-module-base\output\pcb-drawing.PDF
 ReleaseManaged2=0
 OutputBasePath2=output\
 OutputPathMedia2=
@@ -180,7 +180,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=pcb-drawing.PDF
+OutputFileName2=board-files.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -251,7 +251,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\bjorn\Documents\omnimod\network-module\output\pcb-drawing.PDF
+RelativeOutputPath2=C:\Users\bjorn\Documents\omnimod\network-module-base\output\pcb-drawing.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\bjorn\Documents\omnimod\network-module\output\
 OpenOutputs3=0
