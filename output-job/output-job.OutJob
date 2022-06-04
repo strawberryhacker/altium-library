@@ -159,7 +159,7 @@ Configuration5_Item6=Description=120|Designator=120|Quantity=120|Value=100|Manuf
 OutputType6=Board Stack Report
 OutputName6=Report Board Stack
 OutputCategory6=Fabrication
-OutputDocumentPath6=network-module.PcbDoc
+OutputDocumentPath6=mod-pcb.PcbDoc
 OutputVariantName6=
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -214,7 +214,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for network-module
+OutputBasePath4=Project Outputs for mod-pcb
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
